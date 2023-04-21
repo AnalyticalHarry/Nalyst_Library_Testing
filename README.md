@@ -6,13 +6,21 @@
 Introducing Nalyst, a powerful and user-friendly library specifically designed for data analysts, professionals, and researchers in the field of Machine Learning and Data Science. Nalyst provides a comprehensive suite of tools for various tasks, such as:
 
 ✅ Linear Regression
+
 ✅ Logistic Regression
+
 ✅ K-means Clustering
+
 ✅ Principal Component Analysis (PCA)
+
 ✅ Decision Trees
+
 ✅ Train Test Split
+
 ✅ Min Max Scaling
+
 ✅ MaxAbs Scaling
+
 ✅ Standard Scaling
 
 With Nalyst, users can quickly and efficiently train, analyze, and evaluate their models, streamlining the entire data analysis process.💡
